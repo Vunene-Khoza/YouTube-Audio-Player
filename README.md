@@ -53,6 +53,7 @@ Why Copy to Project Folder?
 ✅ No system configuration needed
 ✅ Works immediately
 
+# Project Structure 📁
 YouTube_Audio_Player/
 ├── YouTube_Audio_Player.ipynb
 ├── ffmpeg.exe
